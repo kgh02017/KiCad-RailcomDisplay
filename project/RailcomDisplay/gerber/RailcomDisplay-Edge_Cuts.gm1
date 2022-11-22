@@ -1,0 +1,26 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9)*
+G04 #@! TF.CreationDate,2022-11-22T09:13:48+09:00*
+G04 #@! TF.ProjectId,RailcomDisplay,5261696c-636f-46d4-9469-73706c61792e,rev?*
+G04 #@! TF.SameCoordinates,PX6021600PY87cda00*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.9)) date 2022-11-22 09:13:48*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.050000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X0Y60000000D02*
+X0Y0D01*
+X100000000Y0D02*
+X100000000Y60000000D01*
+X100000000Y60000000D02*
+X0Y60000000D01*
+X0Y0D02*
+X100000000Y0D01*
+M02*

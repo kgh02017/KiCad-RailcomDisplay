@@ -1,0 +1,9 @@
+# KiCad cache file
+fp-info-cache
+
+# KiCad backup files
+*-backups/
+
+# KiCad temporary files
+*.bak
+*.kicad_prl
